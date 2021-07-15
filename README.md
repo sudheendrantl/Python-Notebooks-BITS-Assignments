@@ -1,2 +1,2 @@
 # Python-Notebooks
-Jupyter Notebooks with Python Code Examples for BITS assignments/projects
+Jupyter Notebooks with Python Code of assignments/projects for BITS AIML course
